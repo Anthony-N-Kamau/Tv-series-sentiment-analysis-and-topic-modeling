@@ -8,7 +8,7 @@
 
 This project compares audience sentiment and discussion topics on Reddit for *Game of Thrones* (penultimate season, 2017) and *Better Call Saul* (penultimate season, 2020). It combines lexicon-based and transformer-based sentiment analysis with topic modeling to examine both the emotional tone and the dominant themes in viewer discourse as each show neared its finale.
 
-**Data:** ~50,000+ Reddit posts about popular TV series (`Reddit_TV_Discussions.csv` / `Reddit_Data.csv`), filtered down to *Game of Thrones* (2017) and *Better Call Saul* (2020) posts.
+**Data:** Reddit posts about popular TV series, filtered down to *Game of Thrones* (2017) and *Better Call Saul* (2020) posts.
 
 ## Repository Contents
 
