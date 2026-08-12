@@ -1,4 +1,4 @@
-# TV Series Analysis: Sentiment & Topic Modeling
+# TV Series Analysis: Sentiment Analysis & Topic Modeling
 
 ## Research Question
 
@@ -34,16 +34,4 @@ This project compares audience sentiment and discussion topics on Reddit for *Ga
 - **VADER:** *Better Call Saul* skews slightly positive (mean 0.037), *Game of Thrones* skews slightly negative (mean −0.021).
 - **BERT Base** struggled with informal, sarcastic Reddit language and defaulted heavily toward negative/neutral classes.
 - **RoBERTa** gave more balanced results, reinforcing that *Better Call Saul* discussions are more neutral/reflective while *Game of Thrones* discussions are more emotionally charged.
-- **Topic modeling:** *Game of Thrones* discourse clusters around plot events, character judgment, and meta-commentary/humor — fragmented and polarized. *Better Call Saul* discourse clusters around character development, moral transformation, and narrative interpretation — more concentrated and reflective.
-
-## Tools & Libraries
-
-- `pandas`, `numpy`, `matplotlib`
-- `vaderSentiment`
-- `transformers`, `torch` (Hugging Face)
-- `BERTopic`
-- `re`, `html`, `BeautifulSoup` (text cleaning)
-
-## Note
-
-The full write-up, including literature review, ethical considerations, complete results, and discussion, is available in the accompanying project paper (not included in this repository).
+- **Topic modeling:** *Game of Thrones* discussions cover plot events, character judgment, and joking commentary, and are scattered and emotional. *Better Call Saul* discussions focus on character growth, moral change, and scene interpretation, and are more reflective and coherent.
