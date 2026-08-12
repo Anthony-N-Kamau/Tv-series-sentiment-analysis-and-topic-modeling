@@ -1,8 +1,5 @@
 # TV Series Analysis: Sentiment & Topic Modeling
 
-**Course:** Text and Media Analytics (INFOMTMA) — Utrecht University, 2025/2026
-**Authors:** Anthony Kamau, Elise van Swol, Madina Toghi, Najoua Ouaali
-
 ## Research Question
 
 > How does audience sentiment differ between *Game of Thrones* and *Better Call Saul* during their penultimate seasons, and what does this reveal about how viewers respond as a series approaches its finale?
