@@ -10,7 +10,7 @@ This project compares audience sentiment and discussion topics on Reddit for *Ga
 
 **Data:** Reddit posts about popular TV series, filtered down to *Game of Thrones* (2017) and *Better Call Saul* (2020) posts.
 
-## Repository Contents
+## Repository Notebooks
 
 | Notebook | Description |
 |---|---|
